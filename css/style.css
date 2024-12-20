@@ -48,6 +48,9 @@
         border: 0;
         border-bottom: 2px groove;
     }
+    ul{
+        font-size: 13px;
+    }
 }
 
 
